@@ -3,7 +3,7 @@
 👋 Welcome to my GitHub profile!
 
 ## About Me
-I'm a recent Computer Science graduate with distinctions and have started my professional journey in the industry at Eskom Holdings.
+I'm a recent Computer Science graduate and have started my professional journey in the industry at Eskom Holdings.
 
 ### 👀 Interests
 - **Software Development:** Building robust and scalable applications.
